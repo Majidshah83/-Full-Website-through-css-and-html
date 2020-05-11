@@ -1,0 +1,177 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+.hero{
+	background-image:linear-gradient(#c847f1,#380231);
+
+}
+.logo{
+
+	padding: 20px;
+
+}
+.logo img {
+    width: 68px;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
+.button{
+	float: right;
+	margin: 10px;
+
+}
+.button a{
+	margin: 5px 8px;
+	padding: 8px 20px;
+	border-radius: 50px;
+	text-decoration: none;
+	background-color: white;
+	border: 2px solid #fff;
+
+	
+}
+.btnlogin
+{
+	background:transparent !important;
+	color:#fff;
+	text-decoration: none;
+}
+
+.button a:hover{
+	background-color:white;
+	color: #333;
+
+}
+.hero h1{
+ color: white;
+ font-size: 70px;
+ font-weight: bold;
+ margin-top: 12px;
+
+
+
+}
+.hero P
+	{
+		color: #fff;
+	}
+.hero .container{
+	margin-top:13%;
+
+}
+.hero2 .container{
+	margin-bottom: -200px !important;
+}
+.btnstart{
+	border: 2px solid #fff;
+	border-radius: 50px;
+	background: transparent;
+	color: white;
+	width: 100px;
+	height: 30px;
+	margin-top: 30px;
+	
+}
+.homeimg img{
+	width:90%;
+	min-width: 360px;
+	margin-top: 5%;
+	margin-bottom: 3px;
+
+}
+
+.hero2{
+	padding: 30px 0px;
+	background:#efefef;
+}
+.hero2 h1{
+	margin: 60px 0px;
+	color: #555;
+
+}
+.image{
+	 height: 400px;
+}
+.image img{
+	width: 100%;
+	height100%;
+}
+.persondetail{
+	background-color: #fff;
+	padding: 10px 0px 1px;
+	margin-bottom: 15px;
+}
+.profile{
+	padding: 30px 0px;
+	background-image:linear-gradient(#c847f1,#380231);
+
+}
+.profilecard{
+	border-radius: 10px;
+	background-color: #fff;
+	box-shadow: 0 2px 40px 0 rgba(17,39,125,0.18);
+	margin-bottom: -360px !important;
+	margin-top: 370px;
+
+}
+.profiledetail{
+	padding: 40px;
+}
+.profiledetail h2{
+	color: #c200ff;
+	margin-bottom: 35px;
+}
+.Followers span{
+ display:inline-block;
+ color: #c200ff;
+ margin: 35px 20px;
+}
+.profiledetail h5,p{
+	color: #555;
+}
+.btnflow{
+	width:130px;
+	height: 40px;
+	background:#c200ff;
+	border: none;
+	margin-top: 54px;
+	margin-bottom: 14px;
+	border-radius: 60px;
+}
+.profilimg{
+	text-align: center;
+}
+.profilimg img{
+	width: 84%;
+	margin-top: 40px;
+	margin-right: 30px;
+	height: 100%;
+	min-width: 350px;
+}
+.footer{
+	padding: 50px 0 20px;
+	background-image:linear-gradient(#c847f1,#380231);
+	margin-top: 450px;
+	
+}
+.storeicon img{
+	width: 150px;
+	margin: 0 10px 50px;
+}
+.footermenu a{
+	display: inline-block;
+	width:120px;
+	color: white;
+	text-decoration: none;
+	margin-bottom: 20px;
+
+}
+.footermenu  p{
+	color: #fff;
+	font-size: 14px;
+	margin-top: 20px;
+}
